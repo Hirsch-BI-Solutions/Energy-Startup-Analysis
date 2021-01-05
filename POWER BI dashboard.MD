@@ -1,5 +1,12 @@
 # The BI dashboard for the Energy Startup
 
+# Startup "Light bulb Energy" 
+#We are dealing with a startup that is working on an light bulb electric energy monitoring app for households and in the future for businesses. 
+This is an electric energy consumption analysis which is present in more regions, Berlin, Groningen and Amsterdam etc.  
+The data is taken from an people living in different households and regions, that are using this app 
+We are interested in understanding their KwH consumption behaviour not only in different regions but aso in different households, for the years 2018-2019 in order to enable them to take data-based decisions in their wish to optimize their electric consumption. 
+Anlyzing the KwH behaviour accross the units, regions and seasonality, may help us better understand how they waste energy or save energy and therefore optimize costs and even be more evironmentally conscious.
+
 # Dashboard Charts
 
 <img width="650" alt="Energy 1" src="https://user-images.githubusercontent.com/47668423/103651094-587de600-4f61-11eb-9fe2-66b59c98a871.png">
