@@ -11,36 +11,37 @@
 
 
 # Startup "Light bulb Energy" 
-#We are dealing with a startup that is working on an light bulb electric energy monitoring app for households and in the future for businesses. 
+We are dealing with a startup that is working on an light bulb electric energy monitoring app for households and in the future for businesses. 
 This is an electric energy consumption analysis which is present in more regions, Berlin, Groningen and Amsterdam etc.  
 The data is taken from an people living in different households and regions, that are using this app 
 We are interested in understanding their KwH consumption behaviour not only in different regions but aso in different households, for the years 2018-2019 in order to enable them to take data-based decisions in their wish to optimize their electric consumption. 
 Anlyzing the KwH behaviour accross the units, regions and seasonality, may help us better understand how they waste energy or save energy and therefore optimize costs and even be more evironmentally conscious.
 
 # Understanding data   
--formula to estimate consumption is number of lightbulbs of normally 60 Watt in the unit
--then the result multiplied by number of hours the bulb is switched on 
--then divide by 1000* 0.50 Kw euro per h. 
-#=> rooms 5 - 9(will consider more since there'll be other applicences) just to make it easier to estimate 
-#=> rooms 4 - 8
-#=> rooms 3 - 7 -7*60w (each lighting applience)
-#=> rooms 2 - 6
-#=> rooms 1 - 5
+ - formula to estimate consumption is number of lightbulbs of normally 60 Watt in the unit
+ - then the result multiplied by number of hours the bulb is switched on 
+ - then divide by 1000* 0.50 Kw euro per h. 
+   - => rooms 5 - 9(will consider more since there'll be other applicences) just to make it easier to estimate 
+   - => rooms 4 - 8
+   - => rooms 3 - 7 -7*60w (each lighting applience)
+   - => rooms 2 - 6
+   - => rooms 1 - 5
 
 # Consumption Analysis
-#ex formula for 5 rooms to find out kwt hhours used for 9 60 watt bulbs kwh
-#watts= 60*9=540 W
-#kwh= 540 * 6h:1000
-#kwh=3240 /1000
-#kwh=3,24
-#To find the monthly energy usage, multiply the result by 30.
-#monthly kWh = 3.24 kWh × 30
-#monthly kWh = 97.2 kWh
+- ex formula for 5 rooms to find out kwt hhours used for 9 60 watt bulbs kwh
+- watts= 60*9=540 W
+- kwh= 540 * 6h:1000
+- kwh=3240 /1000
+- kwh=3,24
+
+To find the monthly energy usage, multiply the result by 30.
+ - monthly kWh = 3.24 kWh × 30
+ - monthly kWh = 97.2 kWh
 
   - KwH cost calculation
     - price = kWh × cost per kWh
-#price = 97.2 kWh × .50
-#kWh = 48.6
+    - price = 97.2 kWh × .50
+    - kWh = 48.6
 
 # The analysis in three stages
 #-part I - Active KwH behaviour 
