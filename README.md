@@ -44,9 +44,10 @@ To find the monthly energy usage, multiply the result by 30.
     - kWh = 48.6
 
 # The analysis in three stages
-#-part I - Active KwH behaviour 
-#-part II - Startup context 
-#-part III - Opperational costs.
+
+ - part I - Active KwH behaviour 
+ - part II - Startup context 
+ - part III - Opperational costs.
 
 
 # Electric-energy-behaviour
