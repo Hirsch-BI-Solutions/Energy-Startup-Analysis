@@ -12,6 +12,7 @@
    - [Follow the money](#Who-is-best-paid-in-the-startup?)
    - [Top Sales](#Top-sales-revenue-generated-with-top-selling-country)
    - [Part IV](#Regressions-Charts)
+   - [Regression](#Regressions-chart)
    - [Conclusions](#Conclusions)
    - [Suggestions](#Suggestions)
    - [Product Design](#Product-design-sugesstions)
@@ -219,9 +220,9 @@ Figure 8. Showing mean of sales_revenues across months and the room household di
 |   3 |   2019 | Jan     | CEO                |            3000 |
 |   4 |   2019 | Jan     | Business_developer |            2700 |
 
-## Soft_eng
-## Lawyers
-## BI
+- Soft_eng
+- Lawyers
+- BI
 
 # Top sales revenue generated with top selling country
 
