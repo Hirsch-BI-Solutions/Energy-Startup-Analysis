@@ -1,5 +1,9 @@
-# Energy-Startup-Analysis-
-Code, Python analysis description, BI dashboard
+# Energy-Startup-Analysis
+
+ - Table of contents
+ 
+   - [Startup](#Startup-"Light-bulb-Energy")
+
 
 
 # Startup "Light bulb Energy" 
@@ -246,6 +250,15 @@ lights swithches on and off according to the day's lighting midday dark or simil
 
 
 
+ - Technologies
+    - Python
+    - Power BI
+    
+ - Packages
+    - Pandas
+    - Matplotlib
+    - PLotly
+    - Seaborn
 
 
  
