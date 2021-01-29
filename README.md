@@ -10,7 +10,7 @@
    - [Part II](#Business-Analysis-plots)
    - [Part III](#Operational-Costs)
    - [Follow the money](#Who-is-best-paid-in-the-startup?)
-   - [Top Sales](#Top-sales-revenue-generated- with-top-selling-country)
+   - [Top Sales](#Top-sales-revenue-generated-with-top-selling-country)
    
 
 
