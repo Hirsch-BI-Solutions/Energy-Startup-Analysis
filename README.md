@@ -3,6 +3,10 @@
  - Table of contents
  
    - [Startup](#Startup-"Light-bulb-Energy")
+   - [Understanding data](#Understanding-data)
+   - [Consumption calculation](#Consumption-Analysis)
+   - [Stages of analysis](#The-analysis-in-three-stages)
+   - [I](#Part-I - -electric-energy-behaviour) 
 
 
 
@@ -13,7 +17,7 @@ The data is taken from an people living in different households and regions, tha
 We are interested in understanding their KwH consumption behaviour not only in different regions but aso in different households, for the years 2018-2019 in order to enable them to take data-based decisions in their wish to optimize their electric consumption. 
 Anlyzing the KwH behaviour accross the units, regions and seasonality, may help us better understand how they waste energy or save energy and therefore optimize costs and even be more evironmentally conscious.
 
-# How we dealth with the data   
+# Understanding data   
 -formula to estimate consumption is number of lightbulbs of normally 60 Watt in the unit
 -then the result multiplied by number of hours the bulb is switched on 
 -then divide by 1000* 0.50 Kw euro per h. 
@@ -38,7 +42,7 @@ Anlyzing the KwH behaviour accross the units, regions and seasonality, may help 
 #price = 97.2 kWh × .50
 #kWh = 48.6
 
-# The analysis wil take part in three stages
+# The analysis in three stages
 #-part I - Active KwH behaviour 
 #-part II - Startup context 
 #-part III - Opperational costs.
