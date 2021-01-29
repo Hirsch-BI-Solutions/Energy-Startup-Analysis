@@ -11,6 +11,10 @@
    - [Part III](#Operational-Costs)
    - [Follow the money](#Who-is-best-paid-in-the-startup?)
    - [Top Sales](#Top-sales-revenue-generated-with-top-selling-country)
+   - [Part IV](#Regressions-Charts)
+   - [Conclusions](#Conclusions)
+   - [Suggestions](#Suggestions)
+   - [Product Design](#Product-design-sugesstions)
    
 
 
@@ -238,7 +242,7 @@ Figure 1. Showing top 10 sales by country
 | (5, 'Groningen')       |  83            |22450  |  41500    | 
 
 
-# Part IV regressions charts
+# Regressions charts
 
 <img width="890" alt="reg" src="https://user-images.githubusercontent.com/47668423/102341158-b6896000-3f97-11eb-886c-0b7281680a1a.png">
 
@@ -255,7 +259,7 @@ The correlations between household rooms and electric consumption and between pr
 Also the money goes mostly into Staff marketing, and R&D, this shows the development of the business.
 Software engineer is best paid, along with BI. this shows a potential development and innovation in the electric energy.
 
-# General Suggestions
+# Suggestions
 
 focus sales in regions having more room households
 focus sales during autumn and winter because this is when people need to optimize energy costs. 
