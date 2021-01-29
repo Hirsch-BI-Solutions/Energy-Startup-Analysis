@@ -6,7 +6,7 @@
    - [Understanding data](#Understanding-data)
    - [Consumption calculation](#Consumption-Analysis)
    - [Stages of analysis](#The-analysis-in-three-stages)
-   - [I](#Part-I - -electric-energy-behaviour) 
+   - [Part I](#Electric-energy-behaviour) 
 
 
 
@@ -37,8 +37,8 @@ Anlyzing the KwH behaviour accross the units, regions and seasonality, may help 
 #monthly kWh = 3.24 kWh × 30
 #monthly kWh = 97.2 kWh
 
-# KwH cost calculation
-#price = kWh × cost per kWh
+  - KwH cost calculation
+    - price = kWh × cost per kWh
 #price = 97.2 kWh × .50
 #kWh = 48.6
 
@@ -48,7 +48,7 @@ Anlyzing the KwH behaviour accross the units, regions and seasonality, may help 
 #-part III - Opperational costs.
 
 
-# Part I - electric energy behaviour 
+# Electric-energy-behaviour
 
 
 ![dist](https://user-images.githubusercontent.com/47668423/102016514-bd2e9200-3d61-11eb-82a8-4769a9ea3bac.png)
