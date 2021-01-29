@@ -9,6 +9,9 @@
    - [Part I](#Electric-energy-behaviour) 
    - [Part II](#Business-Analysis-plots)
    - [Part III](#Operational-Costs)
+   - [Follow the money](#Who-is-best-paid-in-the-startup?)
+   - [Top Sales](#Top-sales-revenue-generated- with-top-selling-country)
+   
 
 
 
@@ -212,17 +215,17 @@ Figure 8. Showing mean of sales_revenues across months and the room household di
 |   3 |   2019 | Jan     | CEO                |            3000 |
 |   4 |   2019 | Jan     | Business_developer |            2700 |
 
-#Soft_eng
-#Lawyers
-#BI
+## Soft_eng
+## Lawyers
+## BI
 
-# Top sales revenue generated; top selling country
+# Top sales revenue generated with top selling country
 
 <img width="788" alt="Focus on Hague" src="https://user-images.githubusercontent.com/47668423/102235742-f1858800-3ef2-11eb-9de7-d05f581fb3b0.png">
 
 Figure 1. Showing top 10 sales by country
 
-Focus app sales on Hague and 4 and five room units 
+- Focus app sales on Hague and 4 and five room units 
 
 
 
