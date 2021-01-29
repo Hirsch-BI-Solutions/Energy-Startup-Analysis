@@ -7,6 +7,7 @@
    - [Consumption calculation](#Consumption-Analysis)
    - [Stages of analysis](#The-analysis-in-three-stages)
    - [Part I](#Electric-energy-behaviour) 
+   - [Part II](#Business-Analysis-plots)
 
 
 
@@ -57,7 +58,7 @@ To find the monthly energy usage, multiply the result by 30.
 
 Figure 1. showing Active Kwh per month distributed across the four seasons for 1-5 room households. 
 
-#The graph shows that Active Kwh per month increases along with the number of rooms in households, and it becomes higher for autumn and winter seasons. 
+- The graph shows that Active Kwh per month increases along with the number of rooms in households, and it becomes higher for autumn and winter seasons. 
 
 
 
@@ -65,43 +66,39 @@ Figure 1. showing Active Kwh per month distributed across the four seasons for 1
 
 Figure 2. Showing KwH distributed across months for 2018 and 2019. 
 
-Since electric energy onsumption increases in autumn and winter, in this graphs can be observed that winter months are more active than the summer ones, up to April, we consider the months to be winter months since the day is still short. The graphs shows that 2019 was more active than 2018 in terms of electric energy consumption. 
+- Since electric energy onsumption increases in autumn and winter, in this graphs can be observed that winter months are more active than the summer ones, up to April, we consider the months to be winter months since the day is still short. The graphs shows that 2019 was more active than 2018 in terms of electric energy consumption. 
 
 
 ![Figure_1](https://user-images.githubusercontent.com/47668423/102064320-725f5980-3df7-11eb-9b7f-32f0a26f4988.png)
 
 Figure 3. Showing active Kwh behaviour during the da in December. 
 
-Light bulb electric energy consumption increases most during Midday, which shows tht arround 15:40 or earlier it gets darker.
-People are determined to switch lights on more often.
+- Light bulb electric energy consumption increases most during Midday, which shows tht arround 15:40 or earlier it gets darker.People are determined to switch lights on more often.
 
 
 ![fixed corr](https://user-images.githubusercontent.com/47668423/102065176-8192d700-3df8-11eb-9b27-ca79a70d9fb8.png)
 
 Figure 4. Showing electric energy consumption correlations 
 
-The correlations are not so strong however they are to be considered when taking decisions. 
+- The correlations are not so strong however they are to be considered when taking decisions. 
 There is a correlations between Room household and Actve Kwh per month - 1 which confirms that the larger the number of rooms the higher the consumption.
-The same correlation could be found between Kwh and Room Household. 
+- The same correlation could be found between Kwh and Room Household. 
 
 
 ![Client](https://user-images.githubusercontent.com/47668423/102069460-1ba94e00-3dfe-11eb-96ef-21d97ee0cb20.png)
 
 Figure 5. Showing energy consumption in 1-5 rooms households, across different client regions. 
 
-Came out that Luxembourg and Hgue have most 5 room household than other regions. Therefore consumption will be highest in Luxembourg in Hague. 
-The lowes consumption are Berlin and Groningen. 
+- Came out that Luxembourg and Hgue have most 5 room household than other regions. Therefore consumption will be highest in Luxembourg in Hague. The lowes consumption are Berlin and Groningen. 
 
 
 ![client year](https://user-images.githubusercontent.com/47668423/102069934-b7d35500-3dfe-11eb-8dea-c7f0204523fa.png)
 
 Figure 6. Showing Kwh distribution across regions in both years.
 
-This shows that 2019 was most active in terms of consumption but Hague and Luxembourg consumes most in 2018 compared to other regions that are very active in 2019.
+- This shows that 2019 was most active in terms of consumption but Hague and Luxembourg consumes most in 2018 compared to other regions that are very active in 2019.
 
 
-
-# Part II
 
 # Business Analysis plots
 
