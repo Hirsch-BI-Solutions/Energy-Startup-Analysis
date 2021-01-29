@@ -27,6 +27,15 @@ The data is taken from an people living in different households and regions, tha
 We are interested in understanding their KwH consumption behaviour not only in different regions but aso in different households, for the years 2018-2019 in order to enable them to take data-based decisions in their wish to optimize their electric consumption. 
 Anlyzing the KwH behaviour accross the units, regions and seasonality, may help us better understand how they waste energy or save energy and therefore optimize costs and even be more evironmentally conscious.
 
+ - Technologies
+    - Python
+        
+ - Packages
+    - Pandas
+    - Matplotlib
+    - PLotly
+    - Seaborn
+
 # Understanding data   
  - formula to estimate consumption is number of lightbulbs of normally 60 Watt in the unit
  - then the result multiplied by number of hours the bulb is switched on 
@@ -273,25 +282,5 @@ As a startup it could be a beehive for graduates that could bring new ideas to t
 It may be possible to desigh a light bulb, linked to the app that allows clients using the app, to better focus on saving energy. 
 Design a device that automates 
 lights swithches on and off according to the day's lighting midday dark or similar. 
-
-
-
- - Technologies
-    - Python
-    - Power BI
-    
- - Packages
-    - Pandas
-    - Matplotlib
-    - PLotly
-    - Seaborn
-
-
- 
-
-
-
-
-
 
 
